@@ -7,6 +7,10 @@ import { Component } from '@angular/core';
 export class CounterComponent {
   public counter: number = 10;
 
+  constructor(){
+    console.log("asdfasdf")
+  }
+
   modifyCounter(value:number){
     this.counter = this.counter + value;
   }
