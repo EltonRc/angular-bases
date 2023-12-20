@@ -8,7 +8,7 @@ export class CounterComponent {
   public counter: number = 10;
 
   constructor(){
-    console.log("asdfasdf")
+    console.log("asdfasdfsdaasddsasdsa")
   }
 
   modifyCounter(value:number){
