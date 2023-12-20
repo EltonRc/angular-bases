@@ -9,6 +9,7 @@ export class CounterComponent {
 
   constructor(){
     console.log("asdfasdfsdaasddsasdsa")
+    console.log("asdfasdf")
   }
 
   modifyCounter(value:number){
